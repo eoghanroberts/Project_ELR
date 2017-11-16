@@ -1,0 +1,16 @@
+C:\Users\eroberts\source\repos\Project\TreeSystemTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\eroberts\source\repos\Project\TreeSystemTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\eroberts\source\repos\Project\TreeSystemTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\eroberts\source\repos\Project\TreeSystemTests\bin\Debug\TreeSystemTests.dll
+C:\Users\eroberts\source\repos\Project\TreeSystemTests\bin\Debug\TreeSystemTests.pdb
+C:\Users\eroberts\source\repos\Project\TreeSystemTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\eroberts\source\repos\Project\TreeSystemTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\eroberts\source\repos\Project\TreeSystemTests\bin\Debug\Project.exe
+C:\Users\eroberts\source\repos\Project\TreeSystemTests\bin\Debug\Project.pdb
+C:\Users\eroberts\source\repos\Project\TreeSystemTests\bin\Debug\Project.exe.config
+C:\Users\eroberts\source\repos\Project\TreeSystemTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\eroberts\source\repos\Project\TreeSystemTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\eroberts\source\repos\Project\TreeSystemTests\obj\Debug\TreeSystemTests.csprojResolveAssemblyReference.cache
+C:\Users\eroberts\source\repos\Project\TreeSystemTests\obj\Debug\TreeSystemTests.csproj.CoreCompileInputs.cache
+C:\Users\eroberts\source\repos\Project\TreeSystemTests\obj\Debug\TreeSystemTests.dll
+C:\Users\eroberts\source\repos\Project\TreeSystemTests\obj\Debug\TreeSystemTests.pdb
