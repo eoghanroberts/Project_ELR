@@ -1,0 +1,7 @@
+C:\Users\eroberts\source\repos\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\eroberts\source\repos\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\eroberts\source\repos\Project\Project\bin\Debug\Project.exe.config
+C:\Users\eroberts\source\repos\Project\Project\bin\Debug\Project.exe
+C:\Users\eroberts\source\repos\Project\Project\bin\Debug\Project.pdb
+C:\Users\eroberts\source\repos\Project\Project\obj\Debug\Project.exe
+C:\Users\eroberts\source\repos\Project\Project\obj\Debug\Project.pdb
